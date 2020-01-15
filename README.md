@@ -1,6 +1,9 @@
 # Parameter-Calculator-for-CCA
 An empirical parameter calculator for Compositionally Complex Alloys
 
+# Authors
+Zhipeng Li (u6766505@anu.edu.au), Will Nash
+
 ## Installation (in your command prompt)
 1. git clone this repository. 
    ```
@@ -11,10 +14,10 @@ An empirical parameter calculator for Compositionally Complex Alloys
    ```
    $ pip install virtualenv
    ```
-4. create and activate a virtual environment 
+4. create and activate a virtual environment named 'epcalc'
    ```
-   $ python -m venv ep-calculator
-   $ ep-calculator\Scripts\activate.bat
+   $ python -m venv epcalc
+   $ epcalc\Scripts\activate.bat
    ```
 5. open the project and install the required python packages  
    ```
@@ -44,5 +47,9 @@ An empirical parameter calculator for Compositionally Complex Alloys
    * market price (retrieved from http://www.leonland.de/elements_by_price/en/list)
 2. When calculating parameters for individual alloys, please enter the element names and molar ratios into the given entries, then click    'Show Empirical Properties' button. 
 3. To do batch calculation, from 'File' click 'Batch Calculation', select the input and output file path, then hit 'Start Calculation'.
-   * The input file should be either a .csv or . xlsx file. 
+   * The input file should be either a '.csv' or '.xlsx' file. 
    * And the chemical formulas of the alloys must be in the same format as 'test_dataset.xlsx'.
+   
+   A '.csv' file named 'batch_calculation_results.csv' will be created in the selected output directory. 
+   
+  
