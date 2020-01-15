@@ -22,7 +22,7 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
       $ epcalc\Scripts\activate.bat
    (for MacOS)
       $ cd epcalc
-      $ source bin\activate
+      $ source bin/activate
       $ cd ..
    ```
 5. Change to the project directory and install the required python packages  
