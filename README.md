@@ -40,7 +40,7 @@ An empirical parameter calculator for Compositionally Complex Alloys
    * standard deviation of electronagativity (ΔX)
    * valence electron concentration (VEC)
    * standard deviation of valence electron concentration (ΔVEC)
-   * density of the given alloy (density)
+   * density
    * market price (retrieved from http://www.leonland.de/elements_by_price/en/list)
 2. When calculating parameters for individual alloys, please enter the element names and molar ratios into the given entries, then click    'Show Empirical Properties' button. 
 3. To do batch calculation, from 'File' click 'Batch Calculation', select the input and output file path, then hit 'Start Calculation'.
