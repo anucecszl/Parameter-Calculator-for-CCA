@@ -16,7 +16,8 @@ An empirical parameter calculator for Compositionally Complex Alloys
    $ python -m venv ep-calculator
    $ ep-calculator\Scripts\activate.bat
    ```
-5. install the required python packages  
+5. open the project and install the required python packages  
    ```
+   $ cd Parameter-Calculator-for-CCA
    $ sudo pip install -r requirements.txt
    ```
