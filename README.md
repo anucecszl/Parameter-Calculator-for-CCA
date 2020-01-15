@@ -19,5 +19,5 @@ An empirical parameter calculator for Compositionally Complex Alloys
 5. open the project and install the required python packages  
    ```
    $ cd Parameter-Calculator-for-CCA
-   $ sudo pip install -r requirements.txt
+   $ pip install -r requirements
    ```
