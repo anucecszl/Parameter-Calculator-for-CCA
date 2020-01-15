@@ -19,9 +19,11 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
    ```
    $ python -m venv epcalc
    (for Windows)
-   $ epcalc\Scripts\activate.bat
+      $ epcalc\Scripts\activate.bat
    (for MacOS)
-   $ source epcalc\bin\activate
+      $ cd epcalc
+      $ source bin\activate
+      $ cd ..
    ```
 5. Change to the project directory and install the required python packages  
    ```
