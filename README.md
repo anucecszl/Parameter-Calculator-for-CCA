@@ -4,7 +4,7 @@ An empirical parameter calculator for Compositionally Complex Alloys
 ### Authors
 Zhipeng Li (u6766505@anu.edu.au), Will Nash
 
-## Installation (in your command prompt)
+## Installation
 1. Clone this repository. 
    ```
    $ git clone https://github.com/ZhipengGaGa/Parameter-Calculator-for-CCA.git
@@ -48,7 +48,9 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
    * the unitless parameter Omega (Ω)
    * density
    * market price (retrieved from http://www.leonland.de/elements_by_price/en/list)
+   
 2. When calculating parameters for individual alloys, please enter the element names and molar ratios into the given entries, then click 'Show Empirical Properties' button. 
+
 3. To do batch calculation, from 'File' click 'Batch Calculation', select the input and output file path, then hit 'Start Calculation'.
    * The input file should be either a '.csv' or '.xlsx' file. 
    * The chemical formulas of the alloys must be in the same format as 'test_dataset.xlsx'.
