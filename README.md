@@ -20,7 +20,7 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
    $ python -m venv epcalc
    $ epcalc\Scripts\activate.bat
    ```
-5. Open the project and install the required python packages  
+5. Change to the project directory and install the required python packages  
    ```
    $ cd Parameter-Calculator-for-CCA
    $ pip install -r requirements
