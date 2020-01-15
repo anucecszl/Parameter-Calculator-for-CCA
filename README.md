@@ -18,7 +18,10 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
 4. Create and activate a virtual environment named 'epcalc'
    ```
    $ python -m venv epcalc
+   (for windows)
    $ epcalc\Scripts\activate.bat
+   (for MacOS)
+   $ source epcalc\bin\activate
    ```
 5. Change to the project directory and install the required python packages  
    ```
