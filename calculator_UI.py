@@ -8,6 +8,7 @@ from tkinter import filedialog
 from pymatgen.core.periodic_table import Element
 import empirical_parameter_calculator as calculator
 
+
 # the maximum number of elements can be included in the individual calculation process
 num_elements = 10
 
