@@ -10,6 +10,7 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
    $ git clone https://github.com/ZhipengGaGa/Parameter-Calculator-for-CCA.git
    ```
 2. download and install python 3.7 or any version released after python 3.7 (https://www.python.org/downloads/windows/)
+
 3. install virtualenv:
    ```
    $ pip install virtualenv
@@ -31,6 +32,7 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
    
 ## Instruction
 1. This application supports calculations for 14 empirical parameters of any given compositionally complex alloys. 
+
    The parameters are: 
    * entropy of mixing (ΔS)
    * average atomic radius (a)
@@ -48,7 +50,7 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
 2. When calculating parameters for individual alloys, please enter the element names and molar ratios into the given entries, then click    'Show Empirical Properties' button. 
 3. To do batch calculation, from 'File' click 'Batch Calculation', select the input and output file path, then hit 'Start Calculation'.
    * The input file should be either a '.csv' or '.xlsx' file. 
-   * And the chemical formulas of the alloys must be in the same format as 'test_dataset.xlsx'.
+   * The chemical formulas of the alloys must be in the same format as 'test_dataset.xlsx'.
    
    A '.csv' file named 'batch_calculation_results.csv' will be created in the selected output directory. 
    
