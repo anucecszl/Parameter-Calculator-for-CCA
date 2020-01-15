@@ -1,7 +1,7 @@
 # Parameter-Calculator-for-CCA
 An empirical parameter calculator for Compositionally Complex Alloys
 
-# Authors
+### Authors
 Zhipeng Li (u6766505@anu.edu.au), Will Nash
 
 ## Installation (in your command prompt)
