@@ -21,9 +21,7 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
    (for Windows)
       $ epcalc\Scripts\activate.bat
    (for MacOS)
-      $ cd epcalc
-      $ source bin/activate
-      $ cd ..
+      $ source epcalc/bin/activate
    ```
 5. Change to the project directory and install the required python packages  
    ```
