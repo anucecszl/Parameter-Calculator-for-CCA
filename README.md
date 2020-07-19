@@ -34,7 +34,7 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
    ```
    
 ## Instruction
-1. This application supports calculations for 14 empirical parameters of any given compositionally complex alloys. 
+1. This application supports calculations for 14 empirical parameters of compositionally complex alloys. 
 
    The parameters are: 
    * entropy of mixing (ΔS)
@@ -50,7 +50,7 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash
    * standard deviation of valence electron concentration (ΔVEC)
    * the unitless parameter Omega (Ω)
    * density
-   * market price (retrieved from http://www.leonland.de/elements_by_price/en/list)
+   * price/element cost (based on data retrieved from http://www.leonland.de/elements_by_price/en/list)
    
 2. When calculating parameters for individual alloys, please enter the element names and molar ratios into the given entries, then click 'Show Empirical Properties' button. 
 
