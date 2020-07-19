@@ -2,7 +2,7 @@
 An empirical parameter calculator for Compositionally Complex Alloys
 
 ### Authors
-Zhipeng Li (u6766505@anu.edu.au), Will Nash
+Zhipeng Li (u6766505@anu.edu.au), Will Nash, Nick Birbilis
 
 ## Installation
 1. Clone this repository. 
