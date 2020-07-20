@@ -1,9 +1,6 @@
 # Parameter-Calculator-for-CCA
 An empirical parameter calculator for Compositionally Complex Alloys
 
-### Authors
-Zhipeng Li (u6766505@anu.edu.au), Will Nash, Nick Birbilis
-
 ## Installation
 1. Clone this repository. 
    ```
@@ -59,5 +56,10 @@ Zhipeng Li (u6766505@anu.edu.au), Will Nash, Nick Birbilis
    * The chemical formulas of the alloys must be in the same format as 'test_dataset.xlsx'.
    
    A '.csv' file named 'batch_calculation_results.csv' will be created in the selected output directory. 
+
+## Authors and acknowledgment
+Zhipeng Li (u6766505@anu.edu.au), Will Nash, Nick Birbilis  
+Zhipeng Li performed the bulk of model design and coding, with guidance from Will Nash. Nick Birbilis supervised the project. 
    
-  
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
